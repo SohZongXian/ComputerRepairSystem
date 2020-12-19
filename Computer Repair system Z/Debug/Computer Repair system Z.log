@@ -1,0 +1,16 @@
+﻿  Source.c
+D:\C program\Computer Repair system Z\Source.c(139,8): warning C4101: 'str': unreferenced local variable
+D:\C program\Computer Repair system Z\Source.c(323,8): warning C4101: 'str': unreferenced local variable
+D:\C program\Computer Repair system Z\Source.c(508,8): warning C4101: 'str': unreferenced local variable
+D:\C program\Computer Repair system Z\Source.c(693,8): warning C4101: 'str': unreferenced local variable
+D:\C program\Computer Repair system Z\Source.c(878,8): warning C4101: 'str': unreferenced local variable
+D:\C program\Computer Repair system Z\Source.c(1063,8): warning C4101: 'str': unreferenced local variable
+D:\C program\Computer Repair system Z\Source.c(1248,8): warning C4101: 'str': unreferenced local variable
+D:\C program\Computer Repair system Z\Source.c(1433,8): warning C4101: 'str': unreferenced local variable
+D:\C program\Computer Repair system Z\Source.c(1672,7): warning C4101: 'namec': unreferenced local variable
+D:\C program\Computer Repair system Z\Source.c(2001,11): warning C4477: 'scanf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int *'
+D:\C program\Computer Repair system Z\Source.c(2049,11): warning C4477: 'scanf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int *'
+D:\C program\Computer Repair system Z\Source.c(2221,11): warning C4477: 'scanf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int *'
+D:\C program\Computer Repair system Z\Source.c(2272,11): warning C4477: 'scanf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int *'
+D:\C program\Computer Repair system Z\Source.c(2301,7): warning C4101: 'namec': unreferenced local variable
+  Computer Repair system Z.vcxproj -> D:\C program\Computer Repair system Z\Debug\Computer Repair system Z.exe
